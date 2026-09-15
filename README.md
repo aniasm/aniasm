@@ -32,7 +32,8 @@ Software engineer &amp; CS student passionate about algorithms, full-stack devel
 🌱 &nbsp;I'm currently learning **Cybersecurity fundamentals and cloud infrastructure**  
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **Shinkyokushin karate practitioner for ~11 years, and I've medaled in cycling orienteering**
-🏊‍♂️🚴‍♂️🏃‍♂️ &nbsp;**Last race top 3 age group**
+
+🏊‍♂️🚴‍♂️🏃‍♂️&nbsp;**Last race top 3 age group**
 ### 🛠️ Tech Stack
 
 <p align="left">
